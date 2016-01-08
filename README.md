@@ -159,7 +159,7 @@ Currently, a cache instance is single-process but multi-threaded. Running alone 
 
 ## License ##
 
-This sofware is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+This software is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## Releases ##
 
